@@ -20,3 +20,7 @@ Rubriquage auto
 ### SageMaker
 
 ## AWS DeepLens
+caméra intégrée ( gadget pour Dev)
+
+## Kubernetes
+Kops + Terraform/ Terragrunt 
