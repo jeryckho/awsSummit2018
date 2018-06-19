@@ -24,3 +24,7 @@ caméra intégrée ( gadget pour Dev)
 
 ## Kubernetes
 Kops + Terraform/ Terragrunt 
+
+## Alexa
+
+### Les skills
